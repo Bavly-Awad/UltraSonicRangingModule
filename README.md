@@ -1,2 +1,0 @@
-# UltraSonicRangingModule
-UltraSonicRangingModule
